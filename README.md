@@ -160,38 +160,6 @@ git clone https://github.com/VOTRE_USERNAME/NavigationDrawerDemo.git
 
 ---
 
-## 🔧 Personnalisation
-
-### Ajouter un nouveau fragment
-
-1. **Créer le fragment** : `File > New > Fragment > Fragment (Blank)`
-
-2. **Ajouter au menu** (`res/menu/activity_main_drawer.xml`) :
-```xml
-<item
-    android:id="@+id/nav_nouveau"
-    android:icon="@drawable/ic_nouvelle_icone"
-    android:title="Nouveau Fragment" />
-```
-
-3. **Gérer dans `MainActivity.java`** :
-```java
-} else if (id == R.id.nav_nouveau) {
-    getSupportFragmentManager()
-        .beginTransaction()
-        .replace(R.id.contenu, new NouveauFragment())
-        .commit();
-}
-```
-
-### Modifier les couleurs
-Les couleurs principales sont dans `res/values/colors.xml` :
-```xml
-<color name="colorPrimary">#3F51B5</color>    <!-- Bleu indigo -->
-<color name="colorAccent">#FF4081</color>      <!-- Rose accent -->
-```
-
----
 
 ## 📦 Dépendances
 
