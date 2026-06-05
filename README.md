@@ -8,6 +8,7 @@
 
 > Application Android de démonstration illustrant la navigation modulaire via un **Navigation Drawer** et la gestion dynamique de **Fragments** dans une seule activité.
 
+Salma AIT ZIDAN
 ---
 
 ## 📱 Aperçu
@@ -227,17 +228,3 @@ implementation 'androidx.drawerlayout:drawerlayout:1.2.0'
 - [ ] Migrer vers **Navigation Component** (Jetpack)
 
 ---
-
-## 📄 Licence
-
-```
-MIT License – libre d'utilisation, modification et distribution.
-```
-
----
-
-## 👨‍💻 Auteur
-
-Projet réalisé dans le cadre d'une **formation Android – Niveau intermédiaire**.
-
-> 💡 *Ce projet est conçu comme support pédagogique pour apprendre la navigation modulaire Android.*
