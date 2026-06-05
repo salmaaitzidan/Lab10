@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+
+    <!-- En-tête du Drawer -->
+    <string name="nav_header_title">NavigationDrawerDemo</string>
+    <string name="nav_header_subtitle">Formation Android – Fragments</string>
+    <string name="nav_header_desc">Logo de navigation</string>
+
+    <!-- Éléments du menu -->
+    <string name="menu_fragment1">Fragment 1</string>
+    <string name="menu_fragment2">Fragment 2</string>
+    <string name="menu_fragment_list">Fragment List</string>
+
+    <!-- Contenu des fragments -->
+    <string name="fragment1_label">Fragment 1</string>
+    <string name="fragment1_desc">Fond rose pastel · Accessible depuis le menu</string>
+    <string name="fragment2_label">Fragment 2</string>
+    <string name="fragment2_desc">Fond bleu indigo · Navigation modulaire</string>
+</resources>

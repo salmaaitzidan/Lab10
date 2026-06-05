@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/nav_header_main.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/app_bar_main.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/fragment_blank.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/fragment_blank2.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/fragment_blank2.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-mergeDebugResources-42:/layout/content_main.xml",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/layout/content_main.xml"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryVariant">#303F9F</color>
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="fragment1_desc">Fond rose pastel · Accessible depuis le menu</string>
+    <string name="fragment1_label">Fragment 1</string>
+    <string name="fragment2_desc">Fond bleu indigo · Navigation modulaire</string>
+    <string name="fragment2_label">Fragment 2</string>
+    <string name="menu_fragment1">Fragment 1</string>
+    <string name="menu_fragment2">Fragment 2</string>
+    <string name="menu_fragment_list">Fragment List</string>
+    <string name="nav_header_desc">Logo de navigation</string>
+    <string name="nav_header_subtitle">Formation Android – Fragments</string>
+    <string name="nav_header_title">NavigationDrawerDemo</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <style name="Theme.NavigationDrawerDemo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+    <style name="Theme.NavigationDrawerDemo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.NavigationDrawerDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.NavigationDrawerDemo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

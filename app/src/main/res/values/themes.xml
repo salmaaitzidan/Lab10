@@ -1,0 +1,25 @@
+<resources>
+    <!-- Thème principal de l'application -->
+    <style name="Theme.NavigationDrawerDemo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Thème sans ActionBar (pour MainActivity qui utilise une Toolbar custom) -->
+    <style name="Theme.NavigationDrawerDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Overlay pour l'AppBar -->
+    <style name="Theme.NavigationDrawerDemo.AppBarOverlay"
+           parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <!-- Overlay pour les popups -->
+    <style name="Theme.NavigationDrawerDemo.PopupOverlay"
+           parent="ThemeOverlay.AppCompat.Light" />
+</resources>

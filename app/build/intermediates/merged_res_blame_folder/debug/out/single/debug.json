@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\drawable_ic_nav_logo.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\drawable\\ic_nav_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_fragment_blank2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\fragment_blank2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-merged_res-43:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.navigationdrawerdemo.app-main-45:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "com.example.navigationdrawerdemo.app-merged_res-43:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.example.navigationdrawerdemo.app-main-45:/mipmap-xhdpi/ic_launcher.xml"
+    }
+]
