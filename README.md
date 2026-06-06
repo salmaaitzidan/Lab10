@@ -133,7 +133,7 @@ public class FragmentList extends ListFragment {
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/VOTRE_USERNAME/NavigationDrawerDemo.git
+git clone https://github.com/salmaaitzidan/Lab10.git
 
 # 2. Ouvrir dans Android Studio
 # File > Open > sélectionner le dossier NavigationDrawerDemo
